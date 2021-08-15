@@ -37,7 +37,7 @@ Technologies : Machine Learning
 Libraries : Numpy,Pandas,Matplotlib,Seaborn,Sklearn,TensorFlow,Keras
 ## Documentation
 
-[Documentation]()
+[Documentation](https://github.com/tarun371/Stock_Price_Prediction_Using_LSTM-main/blob/main/Documentation.docx)
 
   
 ## Screenshots
@@ -47,7 +47,7 @@ Libraries : Numpy,Pandas,Matplotlib,Seaborn,Sklearn,TensorFlow,Keras
   
 ## Feedback
 
-If you have any feedback, please reach out to us at hemamo@gmail.com
+If you have any feedback, please reach out to us at kittukurra123@gmail.com
 
   
 
